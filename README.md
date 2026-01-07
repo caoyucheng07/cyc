@@ -3,5 +3,5 @@ code for stm32
 
 this repository contains code for STM32 proj
 
-1. STM32_ir_led proj (register)
-2. STM32_ir_led proj (library)
+1. STM32_ir_led proj(1) (register)
+2. STM32_ir_led proj(2) (library)
