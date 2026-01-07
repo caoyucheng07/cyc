@@ -1,4 +1,4 @@
-# cyc
+# STM 32 Personal Proj
 code for stm32
 
 this repository contains code for STM32 proj
